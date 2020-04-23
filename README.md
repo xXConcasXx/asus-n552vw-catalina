@@ -20,7 +20,7 @@ Tested and works perfectly:
 
 Tested and doesn't work:
 
-1. Sleep;
+1. Sleep in AC mode;
 2. NVIDIA graphic card (disabled);
 
 Let me know if there are any problems!
