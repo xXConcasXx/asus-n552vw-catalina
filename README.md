@@ -1,5 +1,5 @@
 # asus-n552vw-catalina
-Hackintosh Catalina 10.15.3 EFI for Asus N552VW-FI202T
+Hackintosh Catalina EFI for Asus N552VW-FI202T
 
 Works in macOS Catalina 10.15.4 in BIOS ver. 300
 
