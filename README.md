@@ -30,8 +30,6 @@ Enjoy.
 
 You can download EFI from Release page: https://github.com/xXConcasXx/asus-n552vw-catalina/releases
 
-Se ti piace ciò che faccio per te, considera una piccola donazione, che sia di importo piccolo, medio o grande non fa differenza, il gesto è super apprezzato!
-
 # If you like what I do for you, consider a small donation, whether it is small, medium or large, it makes no difference, your gesture is super appreciated!
 
 Link for donation:
