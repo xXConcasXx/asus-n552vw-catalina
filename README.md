@@ -13,7 +13,7 @@ Tested and works perfectly:
 6. Battery recognition;
 7. SD card reader;
 8. All USB ports;
-9. Ethernet (you have to replace nullethernet.kext with rtl8111.kext, i suggest Mieze release);
+9. Ethernet (you have to replace rtl8111.kext with nullethernet.kext for iMessage and FaceTime);
 10. HDMI video/audio with 2.0 support;
 11. USB type C;
 12. Audio with jack 3.5 without distortion or loss of stereo;
