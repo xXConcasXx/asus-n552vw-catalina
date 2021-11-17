@@ -1,7 +1,10 @@
 # asus-n552vw-catalina
-Hackintosh Catalina EFI for Asus N552VW-FI202T
+[Discontinued] Hackintosh Catalina EFI for Asus N552VW-FI202T
+
+# For macOS Monterey please take a look here: https://github.com/xXConcasXx/asus-n552vw-monterey
 
 Works in macOS Catalina 10.15.5 in BIOS ver. 300
+This EFI uses OpenCore EFI Bootloader.
 
 Tested and works perfectly:
 
