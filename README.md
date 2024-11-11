@@ -32,8 +32,3 @@ Any advice and improvement are welcome!
 Enjoy.
 
 You can download EFI from Release page: https://github.com/xXConcasXx/asus-n552vw-catalina/releases
-
-# If you like what I do for you, consider a small donation, whether it is small, medium or large, it makes no difference, your gesture is super appreciated!
-
-Link for donation:
-https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KZRA5QJCZS5SL&source=url
